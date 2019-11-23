@@ -14,4 +14,11 @@ public class Demo {
 	public void runTest1() {
 		Reporter.log("Test Runner2 Msg",true);
 	}
+	
+	
+	
+	@Test
+	public void runTest2() {
+		Reporter.log("Test Runner2 Msg",true);
+	}
 }
