@@ -9,4 +9,9 @@ public class Remo {
 	public void runTest() {
 		Reporter.log("Test Runner Remo Msg",true);
 	}
+	
+	@Test
+	public void runTest1() {
+		Reporter.log("Test Runner Remo Msg",true);
+	}
 }
