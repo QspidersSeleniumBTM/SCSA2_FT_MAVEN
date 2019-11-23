@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Test Runner1 Msg]]>
+    </line>
+    <line>
+      <![CDATA[Test Runner2 Msg]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="236" started-at="2019-11-22T06:45:12Z" finished-at="2019-11-22T06:45:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="236" started-at="2019-11-22T06:45:12Z" finished-at="2019-11-22T06:45:12Z">
+      <class name="com.acti.Demo">
+        <test-method status="PASS" signature="runTest()[pri:0, instance:com.acti.Demo@56ac3a89]" name="runTest" duration-ms="26" started-at="2019-11-22T06:45:12Z" finished-at="2019-11-22T06:45:12Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Runner1 Msg]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runTest -->
+        <test-method status="PASS" signature="runTest1()[pri:0, instance:com.acti.Demo@56ac3a89]" name="runTest1" duration-ms="2" started-at="2019-11-22T06:45:12Z" finished-at="2019-11-22T06:45:12Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Runner2 Msg]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runTest1 -->
+      </class> <!-- com.acti.Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
