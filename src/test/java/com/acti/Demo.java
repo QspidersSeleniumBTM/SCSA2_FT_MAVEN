@@ -28,6 +28,6 @@ public class Demo {
 	}
 	@Test
 	public void jumpe1() {
-		Reporter.log("im jumping3", true);
+		Reporter.log("im jump", true);
 	}
 }
