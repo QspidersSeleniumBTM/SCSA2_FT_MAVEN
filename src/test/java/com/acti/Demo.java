@@ -24,10 +24,10 @@ public class Demo {
 	
 	@Test
 	public void jumpe() {
-		Reporter.log("im jumping", true);
+		Reporter.log("im jumping1", true);
 	}
 	@Test
 	public void jumpe1() {
-		Reporter.log("im jumping", true);
+		Reporter.log("im jumping2", true);
 	}
 }
