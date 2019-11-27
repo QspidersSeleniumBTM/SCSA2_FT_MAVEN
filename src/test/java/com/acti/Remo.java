@@ -14,4 +14,9 @@ public class Remo {
 	public void runTest1() {
 		Reporter.log("Test Runner Remo Msg",true);
 	}
+	
+	@Test
+	public void off() {
+		Reporter.log("im in off method", true);
+	}
 }
